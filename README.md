@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pedrolucas802
-- 👀 I’m interested in Data Science and Software Engineering 
-- 🌱 I’m currently learning Flutter and SQL
-- 💞️ I’m looking to collaborate on App development projects and interesting Softwares
+- 👀 I’m currently majoring in Computer Science
+- 🌱 I have been working as a Software Developer at the University of Fortaleza Tech Department
+- 💞️ I’m wokring mainly with java projects using both spring boot and quarkus but also thymeleaf and angular for the front-end
 - 📫 How to reach me: plsb802@gmail.com(E-mail) and perdolucasb8(Instagram).
 
 <!---
