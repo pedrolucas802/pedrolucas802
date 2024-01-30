@@ -1,13 +1,11 @@
 👋 Hi, I’m Pedro Barreto (He/Him)
 
-🚀 Dynamic Software Developer contributing to the technology department at the University of Fortaleza - UNIFOR. Immersed in a vibrant environment, collaborating with talented professionals and gaining invaluable experience.
+🚀 Dynamic Software Developer contributing to the technology department at the University of Fortaleza - UNIFOR. Immersed in a vibrant environment, collaborating with talented professionals and gaining valuable experience.
 
-💻 My journey is a continuous exploration and refinement of skills in web development, database design, business requirements, and Agile development. I approach each project with a strong work ethic, a passion for learning, and an unwavering commitment to delivering my best work.
-
-🌐 Driven by a desire to stay at the forefront of technological advancements, I actively seek opportunities to expand my knowledge. My dedication to staying current aligns with my belief that innovation is the key to making a lasting impact in the IT field.
+💻 My journey is a continuous exploration and refinement of my skills and interests in web development (back-end heavy), database design, business requirements, Agile development and most recently machine learning and deep learning. I approach each project with a strong work ethic, a passion for learning, and an unwavering commitment to delivering my best work.
 
 🛠️ Technologies:
-   - Software Developer | Spring-Boot | Quarkus | Java | Angular | Vue.js | Typescript | JQuery | SQL | Oracle | Postgres | Git
+   - Software Developer | Spring-Boot | Quarkus | Java | Angular | Vue.js | Typescript | JQuery | SQL | Oracle | Postgres | Git | Python
 
 📊 GitHub Stats:
   <div align="center">
