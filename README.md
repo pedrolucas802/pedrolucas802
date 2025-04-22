@@ -75,6 +75,7 @@ Let's connect!
 ---
 
 _Thanks for visiting my profile!_
+
 ![visitors](https://komarev.com/ghpvc/?username=pedrolucas802)
 
 ---
