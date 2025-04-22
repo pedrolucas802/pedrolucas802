@@ -79,8 +79,3 @@ _Thanks for visiting my profile!_
 ![visitors](https://komarev.com/ghpvc/?username=pedrolucas802)
 
 ---
-testing:
-
-![Snake animation](https://github.com/pedrolucas802/pedrolucas802/blob/gh-pages/github-contribution-grid-snake-dark.svg?raw=true)
-
-
