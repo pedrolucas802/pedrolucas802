@@ -2,13 +2,10 @@
 
 🎓 I'm a passionate Software Developer working at the **University of Fortaleza (UNIFOR)**. I thrive in dynamic environments, collaborating with talented professionals while continuously learning and evolving in the tech world.
 
----
-
 ## 🚀 About Me
 
 I'm on a continuous journey of refining my skills and expanding my knowledge. My main interests lie in **back-end development**, **database architecture**, and **business logic implementation**, but I've recently been diving into the world of **machine learning** and **deep learning** as well.
 
----
 
 ## 🛠️ Tech Stack & Tools
 
@@ -28,10 +25,10 @@ I'm on a continuous journey of refining my skills and expanding my knowledge. My
     <img align="center" alt="Pedro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="Pedro-FastAPI" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" />
     <img align="center" alt="Pedro-PyTorch" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
-    <img align="center" alt="Pedro-PyTorch" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
+    <img align="center" alt="Pedro-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
+    <img align="center" alt="Pedro-gitlab" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
 </div>
 
---- 
 
 ## 📌 Pinned Projects
 
@@ -44,18 +41,15 @@ Here are some highlights from my repositories:
 - 💼 `resume` – A simple website to showcase my professional résumé.
 - 🔧 `pedrolucas802` – My personal GitHub configuration and settings.
 
----
 
 ## 📊 GitHub Stats
 
 <div align="center">
   <a href="https://github.com/pedrolucas802">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrolucas802&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrolucas802&layout=compact&langs_count=7&theme=dark"/>
   </a>
 </div>
 
----
 
 ## 🏆 GitHub Trophies
 
@@ -63,7 +57,6 @@ Here are some highlights from my repositories:
   <img src="https://github-profile-trophy.vercel.app/?username=pedrolucas802&theme=darkhub&row=1&column=7&margin-w=15&no-frame=true" />
 </div>
 
----
 
 ## 📈 Contribution Graph
 
@@ -71,27 +64,22 @@ Here are some highlights from my repositories:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pedrolucas802&theme=github-dark&area=true&hide_border=true"/>
 </div>
 
----
 
 ## 📫 How to reach me
 
 Let's connect!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/pedro-barreto-4b13541a8/)
-- ✉️ Email: plsb802@gmail.com
+- ✉️ [Email](plsb802@gmail.com)
 
 ---
 
 _Thanks for visiting my profile!_
-
+![visitors](https://komarev.com/ghpvc/?username=pedrolucas802)
 
 ---
 testing:
 
-![Snake animation](https://github.com/pedrolucas802/pedrolucas802/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/pedrolucas802/pedrolucas802/blob/gh-pages/github-contribution-grid-snake-dark.svg?raw=true)
 
 
-![Pedro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedrolucas802&show_icons=true&theme=dark&count_private=true)
-
-
-![visitors](https://komarev.com/ghpvc/?username=pedrolucas802)
