@@ -1,6 +1,11 @@
-# 👋 Hi, I’m Pedro Barreto (He/Him)
+👋 Hi, I’m Pedro Barreto (He/Him)
 
-🎓 I'm a passionate Software Developer working at the **University of Fortaleza (UNIFOR)**. I thrive in dynamic environments, collaborating with talented professionals while continuously learning and evolving in the tech world.
+💻 I’m a passionate Software Developer with experience across academia, cybersecurity, and research.
+🔹 I previously worked at the University of Fortaleza (UNIFOR), where I developed solutions in an academic setting.
+🔹 I then joined Network Secure, a cybersecurity company focused on threat intelligence and asset vulnerability management platforms.
+🔹 I’m currently working at Instituto de Pesquisas Eldorado, contributing to cutting-edge research and development projects.
+
+I thrive in dynamic environments, collaborating with talented professionals while continuously learning and evolving in the tech world.
 
 ## 🚀 About Me
 
@@ -58,11 +63,11 @@ Here are some highlights from my repositories:
 </div>
 
 
-## 📈 Contribution Graph
+<!-- ## 📈 Contribution Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pedrolucas802&theme=github-dark&area=true&hide_border=true"/>
-</div>
+</div> -->
 
 
 ## 📫 How to reach me
