@@ -1,12 +1,24 @@
-👋 Hi, I’m Pedro Barreto (He/Him)
+# 👋 Hi, I’m Pedro Barreto (He/Him)
 
-💻 I’m a passionate Software Developer with experience across academia, cybersecurity, and research.
-🔹 I previously worked at the University of Fortaleza (UNIFOR), where I developed solutions in an academic setting.
-🔹 I then joined Network Secure, a cybersecurity company focused on threat intelligence and asset vulnerability management platforms.
-🔹 I’m currently working at Instituto de Pesquisas Eldorado, contributing to cutting-edge research and development projects.
+## 💻 About Me
 
-I thrive in dynamic environments, collaborating with talented professionals while continuously learning and evolving in the tech world.
+I’m a passionate Software Developer with experience across:
 
+- **Enterprise Software Development (Higher Ed Tech)**  
+  - 🏫 *University of Fortaleza (UNIFOR – DTEC)* — Worked in the university's technology department, developing and maintaining internal software systems used by thousands of students and over 5,000 employees.
+
+- **Cybersecurity**  
+  - 🛡 *Network Secure* — Contributed to the development of a platform for threat intelligence and asset vulnerability management.
+
+- **Enterprise & Research Development**  
+  - 🧪 *Instituto de Pesquisas Eldorado* — Currently engaged in enterprise software development for an international client, as well as contributing to cutting-edge R&D initiatives.
+
+## 🎓 Education
+
+- **Bachelor’s Degree in Computer Science**  
+  - *University of Fortaleza (UNIFOR)* — My undergraduate thesis focused on a **Computer Vision** project involving real-time vehicle collision detection.
+
+I thrive in dynamic environments, enjoy collaborating with talented professionals, and continuously seek opportunities to learn and grow in the tech world.
 ## 🚀 About Me
 
 I'm on a continuous journey of refining my skills and expanding my knowledge. My main interests lie in **back-end development**, **database architecture**, and **business logic implementation**, but I've recently been diving into the world of **machine learning** and **deep learning** as well.
