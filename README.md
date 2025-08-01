@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Pedro Barreto (He/Him)
 
-## 💻 About Me
+## 💻 Professional Overview
 
 I’m a passionate Software Developer with experience across:
 
@@ -18,10 +18,15 @@ I’m a passionate Software Developer with experience across:
 - **Bachelor’s Degree in Computer Science**  
   - *University of Fortaleza (UNIFOR)* — My undergraduate thesis focused on a **Computer Vision** project involving real-time vehicle collision detection.
 
-I thrive in dynamic environments, enjoy collaborating with talented professionals, and continuously seek opportunities to learn and grow in the tech world.
-## 🚀 About Me
+## 🚀 Interests & Focus
 
-I'm on a continuous journey of refining my skills and expanding my knowledge. My main interests lie in **back-end development**, **database architecture**, and **business logic implementation**, but I've recently been diving into the world of **machine learning** and **deep learning** as well.
+I'm on a continuous journey of refining my skills and expanding my knowledge.  
+My main interests lie in:
+
+- **Back-end development**
+- **Database architecture**
+- **Business logic implementation**
+- And recently: **Machine Learning** and **Deep Learning**
 
 
 ## 🛠️ Tech Stack & Tools
